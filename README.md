@@ -1,6 +1,6 @@
 
 <html lang="en">
-<head<meta name="google-site-verification" content="QXkCVBc29V6k2V2Elm5wasHicEVcewsXF487Wn7hrVQ" />>
+<meta name="google-site-verification" content="QXkCVBc29V6k2V2Elm5wasHicEVcewsXF487Wn7hrVQ" />
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Tadaco Lubricants and Petroleums</title>
