@@ -1,4 +1,6 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Tadaco Lubricants and Petroleums</title>
@@ -132,6 +134,7 @@
     }
   }
 </style>
+</head>
 <body>
 
 <header>
@@ -144,7 +147,7 @@
     <a href="#blog">Blog</a>
     <a href="#contact">Contact</a>
   </nav>
-
+</header>
 
 <section class="hero" id="home">
   <h2>Powering Progress. Fueling Namibia’s Future.</h2>
@@ -177,7 +180,7 @@
   <p><strong>Environmental Assessment:</strong> In progress</p>
   <p><strong>Environmental Clearance Certificate:</strong> Pending, currently being processed with the Ministry of Mines and Energy</p>
   <p><strong>Safety Protocols:</strong> Our storage and handling meet Namibian petroleum safety regulations.</p>
-</section>
+</section>3
 
 <section class="blog" id="blog">
   <h2>Blog</h2>
@@ -208,3 +211,5 @@
 </footer>
 
 </body>
+</html>
+    
