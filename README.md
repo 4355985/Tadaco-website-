@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="QXkCVBc29V6k2V2Elm5wasHicEVcewsXF487Wn7hrVQ" />
+
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Tadaco Lubricants and Petroleums</title>
@@ -132,7 +132,6 @@
     }
   }
 </style>
-</head>
 <body>
 
 <header>
@@ -145,7 +144,7 @@
     <a href="#blog">Blog</a>
     <a href="#contact">Contact</a>
   </nav>
-</header>
+
 
 <section class="hero" id="home">
   <h2>Powering Progress. Fueling Namibia’s Future.</h2>
@@ -209,4 +208,3 @@
 </footer>
 
 </body>
-</html>
