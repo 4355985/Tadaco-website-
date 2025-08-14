@@ -209,6 +209,5 @@
   &copy; 2025 Tadaco Lubricants and Petroleums — All rights reserved.
 </footer>
 
-</body>
-</html>
+
     
