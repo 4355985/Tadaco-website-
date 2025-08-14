@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -180,7 +180,6 @@
   <p><strong>Environmental Assessment:</strong> In progress</p>
   <p><strong>Environmental Clearance Certificate:</strong> Pending, currently being processed with the Ministry of Mines and Energy</p>
   <p><strong>Safety Protocols:</strong> Our storage and handling meet Namibian petroleum safety regulations.</p>
-</section>3
 
 <section class="blog" id="blog">
   <h2>Blog</h2>
