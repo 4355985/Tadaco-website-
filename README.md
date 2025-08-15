@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -101,8 +101,8 @@
   <h2>Investor Relations / Business Plan</h2>
   <p>Tadaco Lubricants & Petroleums’ comprehensive business plan is available for investors, partners, and stakeholders. This includes detailed operations, financial projections, crude oil recycling & refining expansion plans, and Namibia-specific market analysis.</p>
 
-  <<div class="preview">
-  <h3>Business Plan Highlights</h3>
+  <div class="preview">
+    
   <p>Tadaco Lubricants & Petroleums is expanding into crude oil recycling and refining, producing high-quality fuels and lubricants for Windhoek and beyond. Key highlights include:</p>
   <ul>
     <li><strong>Location:</strong> Windhoek, alongside existing storage facilities</li>
@@ -113,7 +113,7 @@
     <li><strong>Compliance & Safety:</strong> Fully aligned with Namibian environmental and petroleum regulations</li>
     <li><strong>Financial Outlook:</strong> Revenue projected to grow from N$8.5M → N$16.5M over 5 years</li>
   </ul>
-</div>>
+
     <h3>Business Plan Highlights</h3>
     <div class="charts">
       <img src="cover_graph_full.png" alt="Production & Revenue Graph" style="max-width:100%;height:auto;border:1px solid #ccc;margin-bottom:10px;">
