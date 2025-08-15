@@ -145,7 +145,7 @@ alt="Production & Revenue Graph" style="max-width:100%;height:auto;border:1px so
   <p style="margin-top:8px; font-size:0.95rem; color:#555;">Click to view or download Tadaco Lubricants & Petroleums full investor-ready business plan.</p>
 </div>
 
-  <a href="Tadaco_Business_Plan_Full_Investor.pdf" target="_blank" style="display:inline-block;background:#004080;color:white;padding:12px 20px;text-decoration:none;border-radius:5px;margin-top:10px;">Download Full Business Plan (PDF)</a>
+  <a href="Tadaco_Business_Plan_Full_Investor.pdf" target="_blank" style="display:inline-block;background:#004080;color:white;padding:12px 20px;text-decoration:none;border-radius:5px;margin-top:10px;">
 </section>
 
 <section class="contact" id="contact">
