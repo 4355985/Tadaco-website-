@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -226,33 +225,7 @@
       <li>Compliance, environmental, and safety plans</li>
     </ul>
   </p>
-  <a href="Tadaco_Business_Plan_Full_Investor.pdf" target="_blank" style="display:inline-block;background:#004080;color:white;padding:12px 20px;text-decoration:none;border-radius:5px;margin-top:10px;">
-    Download Full Business Plan (PDF)
-  </a>
-</section>
-
-<style>
-  .business-plan {
-    max-width: 900px;
-    margin: 50px auto;
-    padding: 0 20px;
-  }
-  .business-plan h2 {
-    color: #004080;
-    border-bottom: 3px solid #004080;
-    padding-bottom: 8px;
-  }
-  .business-plan p {
-    font-size: 1.1rem;
-    line-height: 1.6;
-  }
-  .business-plan ul {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-  .business-plan li {
-    margin-bottom: 8px;
-  }
+  <a 
 </style>
 </footer>
 
