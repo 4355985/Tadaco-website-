@@ -227,7 +227,4 @@
   </p>
   <a 
 </style>
-</footer>
-
-
-    
+</footer>rr
