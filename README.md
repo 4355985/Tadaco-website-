@@ -207,6 +207,53 @@
 
 <footer>
   &copy; 2025 Tadaco Lubricants and Petroleums — All rights reserved.
+  <!-- Add this new section right before the footer -->
+
+<section class="business-plan" id="business-plan">
+  <h2>Investor Relations / Business Plan</h2>
+  <p>
+    Tadaco Lubricants & Petroleums’ comprehensive business plan is now available for investors, partners, and stakeholders. 
+    This document includes detailed operations, financial projections, crude oil recycling & refining expansion plans, 
+    and Namibia-specific market analysis.
+  </p>
+  <p>
+    <strong>Key Highlights:</strong>
+    <ul>
+      <li>Refinery & recycled petroleum operations in Windhoek</li>
+      <li>City of Windhoek feedstock contract projections</li>
+      <li>5-year financial projections in Namibian Dollars</li>
+      <li>CAPEX, OPEX, and EBITDA analysis</li>
+      <li>Compliance, environmental, and safety plans</li>
+    </ul>
+  </p>
+  <a href="Tadaco_Business_Plan_Full_Investor.pdf" target="_blank" style="display:inline-block;background:#004080;color:white;padding:12px 20px;text-decoration:none;border-radius:5px;margin-top:10px;">
+    Download Full Business Plan (PDF)
+  </a>
+</section>
+
+<style>
+  .business-plan {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 0 20px;
+  }
+  .business-plan h2 {
+    color: #004080;
+    border-bottom: 3px solid #004080;
+    padding-bottom: 8px;
+  }
+  .business-plan p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  .business-plan ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .business-plan li {
+    margin-bottom: 8px;
+  }
+</style>
 </footer>
 
 
