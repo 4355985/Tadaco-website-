@@ -118,7 +118,22 @@
   </div>
 
   <h3>5-Year Financial Overview</h3>
-  <canvas id="financialChart" style="max-width:100%;height:400px;"></canvas>
+  <canvas id="financialChart" style="max-width:100%;height:400px;"></canvas><!-- Add this inside the business-plan section after the canvas -->
+<div style="margin-top:20px; text-align:center;">
+  <a href="Tadaco_Business_Plan_Full_Investor.pdf" target="_blank" 
+     style="display:inline-block;
+            background:#004080;
+            color:white;
+            padding:15px 25px;
+            text-decoration:none;
+            border-radius:5px;
+            font-weight:bold;
+            font-size:1.1rem;
+            box-shadow: 0 3px 6px rgba(0,0,0,0.2);">
+     Download Full Business Plan (PDF)
+  </a>
+  <p style="margin-top:8px; font-size:0.95rem; color:#555;">Click to view or download Tadaco Lubricants & Petroleums full investor-ready business plan.</p>
+</div>
 
   <a href="Tadaco_Business_Plan_Full_Investor.pdf" target="_blank" style="display:inline-block;background:#004080;color:white;padding:12px 20px;text-decoration:none;border-radius:5px;margin-top:10px;">Download Full Business Plan (PDF)</a>
 </section>
