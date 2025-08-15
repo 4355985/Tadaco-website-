@@ -114,9 +114,7 @@
     <li><strong>Financial Outlook:</strong> Revenue projected to grow from N$8.5M → N$16.5M over 5 years</li>
   </ul>
 
-    <h3>Business Plan Highlights</h3>
-    <div class="charts">
-      <img src="cover_graph_full.png" alt="Production & Revenue Graph" style="max-width:100%;height:auto;border:1px solid #ccc;margin-bottom:10px;">
+alt="Production & Revenue Graph" style="max-width:100%;height:auto;border:1px solid #ccc;margin-bottom:10px;">
     </div>
     <div class="financial-summary">
       <p><strong>5-Year Financial Projection (Highlights):</strong></p>
